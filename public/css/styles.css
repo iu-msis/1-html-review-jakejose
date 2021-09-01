@@ -1,0 +1,23 @@
+
+
+/* Reference for Bootstrap override: https://stackoverflow.com/questions/46453057/why-is-bootstraps-css-overwriting-my-css*/
+body{
+    background: lightblue;
+    font-family: 'Old Standard TT', serif !important;
+    color: navy !important;
+}
+
+h2{
+    color: darkblue !important;
+}
+
+table{
+    color: darkblue !important;
+    background-color: lightgoldenrodyellow;
+}
+
+a{
+    color: lightcoral;
+}
+
+/* reference changing link color: https://htmlcolorcodes.com/tutorials/css-link-color/ */
