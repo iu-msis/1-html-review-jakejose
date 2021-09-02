@@ -23,6 +23,13 @@ a{
     background-color: powderblue;
 }
 
+.profile{
+    border: 2px solid black;
+    border-radius: 8px;
+}
+
+/* Styling images reference: https://www.digitalocean.com/community/tutorials/how-to-style-images-with-css */
+
 /* Declaration by ID */
 #welcomeHeader{
     font-style: italic !important;
@@ -33,4 +40,5 @@ a{
     width: 15%;
     border-radius: 5px;
 }
+
 /* reference changing link color: https://htmlcolorcodes.com/tutorials/css-link-color/ */
