@@ -7,9 +7,6 @@ body{
     color: navy !important;
 }
 
-h2{
-    color: darkblue !important;
-}
 
 table{
     color: darkblue !important;
@@ -20,8 +17,13 @@ a{
     color: lightcoral;
 }
 
-.nav-link{
-    color: darkblue !important;
+#welcomeHeader{
+    font-style: italic !important;
 }
 
+#doctor{
+    height: 25%;
+    width: 15%;
+    border-radius: 5px;
+}
 /* reference changing link color: https://htmlcolorcodes.com/tutorials/css-link-color/ */
