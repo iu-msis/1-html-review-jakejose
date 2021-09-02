@@ -17,6 +17,13 @@ a{
     color: lightcoral;
 }
 
+/* Declaration by Class */
+
+.navbar-nav{
+    background-color: powderblue;
+}
+
+/* Declaration by ID */
 #welcomeHeader{
     font-style: italic !important;
 }
