@@ -1,6 +1,6 @@
 
 
-/* Reference for Bootstrap override: https://stackoverflow.com/questions/46453057/why-is-bootstraps-css-overwriting-my-css*/
+/* Reference for Bootstrap CSS override: https://stackoverflow.com/questions/46453057/why-is-bootstraps-css-overwriting-my-css*/
 body{
     background: lightblue;
     font-family: 'Old Standard TT', serif !important;
@@ -18,6 +18,10 @@ table{
 
 a{
     color: lightcoral;
+}
+
+.nav-link{
+    color: darkblue !important;
 }
 
 /* reference changing link color: https://htmlcolorcodes.com/tutorials/css-link-color/ */
